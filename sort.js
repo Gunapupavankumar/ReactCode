@@ -1,5 +1,7 @@
 
 const arr =[1,2,3,[4,5,6],[7,8,9],10];
+// QA  changes into main branch
+// know i am changing from qa-testing
 // prod changes
 function flattenArray(array){
      let result =[];
