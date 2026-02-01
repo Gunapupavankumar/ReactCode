@@ -1,6 +1,7 @@
 
 const arr =[1,2,3,[4,5,6],[7,8,9],10];
-
+// QA  changes into main branch
+// know i am changing from qa-testing
 function flattenArray(array){
      let result =[];
      for(let i=0;i<array.length;i++){
